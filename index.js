@@ -1,1 +1,3 @@
-console.log("hello smelly cat")
+function myfun (){ console.log("hello smelly cat") }
+myfun()
+
